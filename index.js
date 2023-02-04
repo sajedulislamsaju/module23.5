@@ -1,13 +1,19 @@
 var arraye = ["managram", 'katiadi', 'kishoreganj', 'pulergat', 'dasergaw']
 
-console.log(arraye[2] = 'munsigonj')
+// console.log(arraye[2] = 'munsigonj')
 
-arraye[2] = "komolpur"; 
+// arraye[2] = "komolpur"; 
 
-var index =arraye.indexOf('pulergat')
+// var index =arraye.indexOf('pulergat')
 
- console.log(index)
+const findLength = arraye.length;
 
-arraye.push('dhaka')
+console.log(findLength)
 
-console.log(arraye)
+//  console.log(index)
+
+// arraye.push('dhaka')
+
+// arraye.pop()
+
+// console.log(arraye)
